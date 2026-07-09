@@ -1,6 +1,6 @@
 #Bem Vindo  👋 
 
-#Repositorio de um Estudante , Aulas e Projetos em busca de conhecimento  demostrando todo meu aprendizado é  evolução é das habilidades .
+#Repositorio de um Estudante com Aulas e Projetos em busca de conhecimento  demostrando todo meu aprendizado é  evolução é das habilidades .
 
 # 🚀Futuro Software Developer
 
